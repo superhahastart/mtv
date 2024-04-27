@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="China" tvg-logo="https://i.imgur.com/uHU6Vc0.png",CCTV-1 综合
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 group-title="China" tvg-logo="https://i.imgur.com/6C9JEYt.png",CCTV-2 财经
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
