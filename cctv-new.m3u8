@@ -21,3 +21,5 @@ http://154.yfvodcdn.com:8080/live/jsydcctv7/hls.m3u8
 http://58.35.70.169:10055/live/dftv/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
 http://58.35.70.169:10055/live/cctv06/hls.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
+http://58.35.70.169:10055/live/cctv08/hls.m3u8
