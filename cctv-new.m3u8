@@ -18,6 +18,6 @@ http://154.yfvodcdn.com:8080/live/jsydcctv13/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
 http://154.yfvodcdn.com:8080/live/jsydcctv7/hls.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视频道",东方卫视
-http://66.165.240.154:8080/live/jsydws03/hls.m3u8
+http://58.35.70.169:10055/live/dftv/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
 http://58.35.70.169:10055/live/cctv06/hls.m3u8
