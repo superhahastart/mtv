@@ -62,4 +62,4 @@ http://66.165.240.154:8080/live/jsydws02/hls.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视频道",四川卫视
 http://58.35.70.169:10055/live/sctv/hls.m3u8
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/gzwshd8m/8000000/mnf.m3u8
