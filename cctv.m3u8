@@ -64,4 +64,4 @@ http://58.35.70.169:10055/live/sctv/hls.m3u8
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/gzwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视频道",云南卫视
-http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000305/index.m3u8?IAS
+http://58.35.70.169:10055/live/yntv/hls.m3u8
